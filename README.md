@@ -1,1 +1,1 @@
-# calculator
+Calculator (training project)
